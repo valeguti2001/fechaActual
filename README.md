@@ -1,4 +1,4 @@
 # fechaActual
 
 ## live link
-https://github.com/valeguti2001/fechaActual.git
+https://valeguti2001.github.io/fechaActual/
